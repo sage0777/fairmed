@@ -1,0 +1,42 @@
+[
+  {
+    "generic_name": "Pemetrexed 500mg Injection",
+    "active_ingredients": "Pemetrexed",
+    "strength": "500mg",
+    "dosage_form": "Injection",
+    "route": "Intravenous",
+    "unit": "1 Vial",
+    "pack_size": "1 Vial",
+    "ceiling_price": 7900.00,
+    "pricing_category": "TRADE_MARGIN_CAPPED",
+    "notification_number": "S.O. 1041(E) / S.O. 4443(E)",
+    "publication_date": "2022-10-19",
+    "effective_from": "2022-11-01",
+    "effective_to": null,
+    "source_document": "NPPA Trade Margin Rationalization Order for 42 Anti-Cancer Formulations",
+    "document_url": "https://nppa.gov.in/en/view_more",
+    "source_page": 2,
+    "verification_status": "OFFICIAL_NPPA_VERIFIED",
+    "brand_aliases": ["Alimta 500", "Pemxcel 500", "Pemetec 500"]
+  },
+  {
+    "generic_name": "Erlotinib 150mg Tablet",
+    "active_ingredients": "Erlotinib Hydrochloride",
+    "strength": "150mg",
+    "dosage_form": "Tablet",
+    "route": "Oral",
+    "unit": "1 Tablet",
+    "pack_size": "Strip of 30 Tablets",
+    "ceiling_price": 800.00,
+    "pricing_category": "TRADE_MARGIN_CAPPED",
+    "notification_number": "S.O. 1041(E) / S.O. 4443(E)",
+    "publication_date": "2022-10-19",
+    "effective_from": "2022-11-01",
+    "effective_to": null,
+    "source_document": "NPPA Trade Margin Rationalization Order for 42 Anti-Cancer Formulations",
+    "document_url": "https://nppa.gov.in/en/view_more",
+    "source_page": 5,
+    "verification_status": "OFFICIAL_NPPA_VERIFIED",
+    "brand_aliases": ["Tarceva 150", "Erlocip 150", "Erleva 150"]
+  }
+]
