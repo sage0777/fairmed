@@ -1,0 +1,17 @@
+[
+  "app/tests/test_api_flow.py::test_health_endpoint",
+  "app/tests/test_api_flow.py::test_medicine_match_api",
+  "app/tests/test_api_flow.py::test_medicine_search_api",
+  "app/tests/test_api_flow.py::test_standalone_pricing_check_api",
+  "app/tests/test_auth.py::test_get_profile",
+  "app/tests/test_auth.py::test_login_invalid_password",
+  "app/tests/test_auth.py::test_login_success",
+  "app/tests/test_auth.py::test_register_new_user",
+  "app/tests/test_matching.py::test_medicine_matching_exact_alias",
+  "app/tests/test_matching.py::test_medicine_matching_strength_isolation",
+  "app/tests/test_matching.py::test_medicine_matching_unknown_drug",
+  "app/tests/test_matching.py::test_normalizer_utilities",
+  "app/tests/test_pricing.py::test_pricing_compliant_calculation",
+  "app/tests/test_pricing.py::test_pricing_effective_date_boundary",
+  "app/tests/test_pricing.py::test_pricing_overcharged_calculation"
+]
